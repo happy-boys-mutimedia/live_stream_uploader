@@ -2,7 +2,7 @@
 This is for live stream upload with video and audio which collected by camera and microphone  
 
 Now she looks like this:  
-![live_stream_uploader](img/upLoader.PNG)     
+![live_stream_uploader](Img/upLoader.PNG)     
 
 Support features:  
 1.capture video frame from network camera or usb camera by opencv library.  
